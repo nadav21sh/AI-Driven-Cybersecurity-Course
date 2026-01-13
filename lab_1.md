@@ -2,7 +2,7 @@
 
 ## Group Members
 - Nadav Shapira (ID: 325363505)
-- jordan levy (ID: 325363505)
+- jordan levy (ID: 207905696)
 ## Source CTI Report
 **Title:** Analyzing Solorigate: The Compromised DLL File That Started a Sophisticated Cyberattack  
 **Source:** Microsoft Security Blog  
