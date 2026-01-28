@@ -45,7 +45,9 @@ The tool performs retrieval + parsing + structuring, while the agent focuses on 
 ---
 
 ## 4. Example Interaction
+The following screenshot shows an example interaction with the agent using the Dev UI.
 
+![Agent Interaction](agent_interaction.png)
 User:
 > Here are my logs:
 > 2026-01-27 10:01:02 INFO User login from 10.0.0.5  
@@ -57,3 +59,4 @@ Agent (high level):
 - Explains the level distribution (INFO/WARN/ERROR)
 - Highlights repeated IPs and suspicious lines (failed login, unauthorized)
 - Suggests basic next steps (check auth logs, rate limiting, verify IP origins)
+
