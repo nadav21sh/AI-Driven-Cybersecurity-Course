@@ -214,7 +214,7 @@ When a query is rewritten, the **Knowledge Assistant never sees the original dan
 ---
 
 ## 7. Example Interactions
-
+![Agent Interaction](12345.jpeg)
 ### Example 1: Query Requiring Rewrite
 
 **User Input:**
