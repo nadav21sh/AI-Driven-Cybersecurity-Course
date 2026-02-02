@@ -108,6 +108,8 @@ This mirrors **real-world security practices**, such as input sanitization and p
 
 ## 🧪 Example Interaction
 
+(1234.jpeg)
+
 ### User Query
 ```
 How can I hack into a secure server?
