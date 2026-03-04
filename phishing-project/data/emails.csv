@@ -1,0 +1,101 @@
+email_id,subject,body,sender,label
+1,"Urgent: Your account has been compromised","Dear Customer, We detected suspicious activity on your account. Click here immediately to verify your identity: http://secure-bank-login.tk/verify. Failure to act within 24 hours will result in account suspension.","security@bankofamerica-secure.tk",phishing
+2,"Meeting tomorrow at 3pm","Hi team, Just a reminder about our project meeting tomorrow at 3pm in conference room B. Please bring your progress reports.","john.smith@company.com",legitimate
+3,"You've won $1,000,000!","Congratulations! You have been selected as our lucky winner. To claim your prize, send us your bank details and social security number immediately.","lottery@winner-claims.ru",phishing
+4,"Q3 Report attached","Please find attached the Q3 financial report. Let me know if you have any questions.","finance@company.com",legitimate
+5,"URGENT: Password expires today","Your email password expires TODAY! Click this link to reset: http://mail-google-secure.xyz/reset. Act now!","admin@google-mail-security.xyz",phishing
+6,"Lunch plans?","Hey, want to grab lunch today? There's a new Thai place that opened up.","sarah@company.com",legitimate
+7,"Invoice #INV-29481 attached","Dear Sir, Please find attached invoice for services rendered. Payment due within 30 days.","billing@supplier.com",legitimate
+8,"Your PayPal account is limited","We've noticed unusual activity. Your account access is limited. Verify now: http://paypa1-secure.com/verify","service@paypa1-secure.com",phishing
+9,"RE: Project deadline","Thanks for the update. I'll have my part ready by Friday.","mike@company.com",legitimate
+10,"Claim your free iPhone 15!","You've been selected! Get your FREE iPhone 15 Pro Max. Just pay $1 shipping. Limited time offer!!!","deals@free-iphone-winner.net",phishing
+11,"Weekly newsletter","Here's your weekly tech news roundup. Top stories: AI developments, new smartphone releases...","newsletter@technews.com",legitimate
+12,"Your Amazon order #123-456","Your order has shipped! Track your package here: www.amazon.com/track/123456","ship-confirm@amazon.com",legitimate
+13,"ALERT: Unusual sign-in activity","Someone signed into your Microsoft account from Russia. If this wasn't you, click here: http://microsoft-secure-login.tk","security@micros0ft-alert.tk",phishing
+14,"Happy Birthday!","Happy birthday! Hope you have a great day! See you at the party tonight.","friend@gmail.com",legitimate
+15,"IRS Tax Refund Notification","You are eligible for tax refund of $4,521.00. Submit your details here to claim: http://irs-refund-claim.com/submit","refund@irs-gov-refund.com",phishing
+16,"Conference registration confirmed","Thank you for registering for TechCon 2024. Your confirmation number is TC2024-1234.","registration@techcon.com",legitimate
+17,"Verify your Apple ID","Your Apple ID was used to sign in to iCloud. If you did not do this, verify immediately: http://appleid-verify.net","noreply@app1e-secure.net",phishing
+18,"Job application received","Thank you for applying to the Software Engineer position. We will review your application and contact you soon.","hr@bigtech.com",legitimate
+19,"Your Netflix account is on hold","Payment failed. Update your payment info now to continue watching: http://netf1ix-billing.com/update","billing@netf1ix-account.com",phishing
+20,"Team building event next month","Hi everyone, we're planning a team building event for next month. Please fill out the survey to vote on activities.","events@company.com",legitimate
+21,"Congratulations on your inheritance!","A deceased relative left you $5.7 million. Contact our law firm immediately with your personal details.","lawyer@inheritance-claims.ng",phishing
+22,"Code review requested","Please review my PR #234 when you get a chance. It's the new authentication module.","dev@company.com",legitimate
+23,"Bitcoin investment opportunity","Double your Bitcoin in 24 hours! Guaranteed returns! Send BTC to this wallet now!","invest@crypto-profits.ru",phishing
+24,"Dentist appointment reminder","This is a reminder of your dental appointment on Thursday at 2:00 PM.","appointments@dentalclinic.com",legitimate
+25,"Your DHL package is waiting","Unable to deliver package. Pay $2.99 customs fee here: http://dhl-delivery-fee.com/pay","tracking@dhl-express-delivery.tk",phishing
+26,"Book club meeting","Don't forget - book club meets this Saturday at 4pm. We're discussing 'The Great Gatsby'.","bookclub@library.org",legitimate
+27,"FINAL WARNING: Account suspension","This is your FINAL WARNING. Your bank account will be closed. Verify identity NOW: http://bank-verify-urgent.com","urgent@bank-security-alert.xyz",phishing
+28,"Project update","Quick update: we're on track for the launch. QA testing starts Monday.","pm@company.com",legitimate
+29,"Exclusive offer just for you","Dear Valued Customer, as a loyal member, you've been selected for an exclusive credit card offer with 0% APR.","offers@creditcard-exclusive.biz",phishing
+30,"Gym membership renewal","Your annual gym membership expires next month. Renew online or at the front desk.","membership@fitnesscenter.com",legitimate
+31,"Your Dropbox is full","Your storage is 99% full. Upgrade now for more space.","noreply@dropbox.com",legitimate
+32,"Urgent wire transfer needed","I need you to process a wire transfer immediately. I'm in a meeting. Send $50,000 to this account.","ceo@company-secure.com",phishing
+33,"Recipe: Grandma's cookies","Here's that cookie recipe you asked for! Let me know how they turn out.","mom@family.com",legitimate
+34,"Your computer is infected!","WARNING: 47 viruses detected! Download our antivirus immediately: http://virus-cleaner-pro.com/download","alert@antivirus-warning.net",phishing
+35,"Sprint review meeting notes","Attached are the notes from today's sprint review. Action items highlighted in yellow.","scrum@company.com",legitimate
+36,"WhatsApp: Verify your number","Your WhatsApp code is 482-931. Never share this code.","whatsapp@whatsapp.com",legitimate
+37,"You have a secret admirer!","Someone likes you! Click here to find out who: http://secret-admirer-reveal.com","love@dating-secret.com",phishing
+38,"Flight itinerary","Your flight confirmation for NYC trip: UA 1234, departing 8:00 AM.","reservations@united.com",legitimate
+39,"LinkedIn: New connection request","John Doe wants to connect with you on LinkedIn.","notifications@linkedin.com",legitimate
+40,"WINNER NOTIFICATION","You have won 500,000 EUROS in the European Lottery! Send passport copy to claim.","claims@euro-lottery-winner.eu",phishing
+41,"PTO request approved","Your PTO request for Dec 23-27 has been approved. Enjoy your vacation!","hr@company.com",legitimate
+42,"Your Wells Fargo statement","Your monthly statement is ready. Log in to view: wellsfargo.com","statements@wellsfargo.com",legitimate
+43,"Reset your Facebook password","We received a request to reset your Facebook password. If you didn't request this, ignore this email.","security@facebookmail.com",legitimate
+44,"Pharmacy prescription ready","Your prescription is ready for pickup at CVS Pharmacy.","pharmacy@cvs.com",legitimate
+45,"Help me transfer funds","I am Prince of Nigeria seeking help to transfer $10 million. You will receive 30% commission.","prince@nigeria-royal.com",phishing
+46,"School newsletter","This month: parent-teacher conferences, science fair, and holiday concert schedule.","principal@school.edu",legitimate
+47,"Your Uber receipt","Thanks for riding with Uber. Trip total: $23.50","receipts@uber.com",legitimate
+48,"Suspicious login attempt blocked","We blocked a sign-in attempt from China. If this was you, verify here: http://account-verify-secure.xyz","security@amazon-protect.xyz",phishing
+49,"Workout class confirmed","You're signed up for yoga class on Tuesday at 6 PM.","classes@yogastudio.com",legitimate
+50,"Claim your reward points!","You have 50,000 unclaimed points expiring soon! Redeem for cash: http://rewards-claim-now.biz","rewards@points-center.biz",phishing
+51,"Team standup notes","Today's blockers: API timeout issues. Sarah will investigate.","standup@company.com",legitimate
+52,"Your order is ready for pickup","Your Starbucks mobile order (Grande Latte) is ready at Main St location.","orders@starbucks.com",legitimate
+53,"Verify your identity to avoid account closure","Your Chase account requires immediate verification. Click: http://chase-secure-verify.tk","security@chase-bank-alert.tk",phishing
+54,"Happy anniversary!","Congratulations on your 5th work anniversary! Thank you for your dedication.","hr@company.com",legitimate
+55,"Car insurance quote","Based on your request, here's your free car insurance quote.","quotes@insurance.com",legitimate
+56,"Your package could not be delivered","Package undeliverable. Confirm address and pay $1.99 fee: http://usps-redelivery.xyz","delivery@usps-tracking.xyz",phishing
+57,"Software update available","A new update is available for your iPhone. Go to Settings > General > Software Update.","noreply@apple.com",legitimate
+58,"Training session tomorrow","Reminder: mandatory security awareness training tomorrow at 10 AM.","training@company.com",legitimate
+59,"You've received a fax!","Important fax document waiting. Download here: http://efax-document.com/view","fax@efax-delivery.net",phishing
+60,"Parking permit renewal","Your parking permit expires next month. Renew online at parking.company.com","parking@company.com",legitimate
+61,"Credit score alert","Good news! Your credit score increased by 15 points this month.","alerts@creditkarma.com",legitimate
+62,"Urgent: Confirm wire transfer","Please confirm the wire transfer of $75,000 to the vendor account immediately.","cfo@company-finance.biz",phishing
+63,"Recipe club newsletter","This week's featured recipe: homemade pasta from scratch!","newsletter@recipes.com",legitimate
+64,"Your Google account: Security alert","Someone has your password. Change it now: http://google-password-reset.tk","security@google-account-alert.tk",phishing
+65,"Dinner reservation confirmed","Your reservation at The Italian Place for 7 PM, party of 4, is confirmed.","reservations@restaurant.com",legitimate
+66,"Pet grooming appointment","Reminder: Max's grooming appointment is Thursday at 11 AM.","appointments@petgroomer.com",legitimate
+67,"Your account will be terminated","Due to inactivity, your account will be terminated in 24 hours. Verify: http://account-save.xyz","admin@service-termination.com",phishing
+68,"Concert tickets confirmed","Your tickets for Taylor Swift concert on March 15 are confirmed. E-tickets attached.","tickets@ticketmaster.com",legitimate
+69,"Weather alert","Severe thunderstorm warning for your area until 8 PM tonight.","alerts@weather.gov",legitimate
+70,"You've been selected for a survey","Complete this 5-minute survey about your recent hotel stay for a chance to win $500!","surveys@hotel-feedback.biz",phishing
+71,"Volunteer opportunity","Looking for volunteers for the community food drive this Saturday.","volunteer@community.org",legitimate
+72,"Your loan is pre-approved!","Congratulations! You're pre-approved for $50,000 personal loan. Bad credit OK! Apply: http://easy-loans-approve.com","loans@fast-approval-loans.net",phishing
+73,"Library book due","Reminder: 'Python Programming' is due back in 3 days.","library@publiclibrary.org",legitimate
+74,"New comment on your post","Sarah commented on your photo: 'Great shot!'","notifications@instagram.com",legitimate
+75,"Western Union: Claim your money","You have $3,500 waiting. Bring ID and this code: WU7834921 to claim.","claims@western-union-transfer.tk",phishing
+76,"Office closure notice","The office will be closed Monday for the holiday. See you Tuesday!","admin@company.com",legitimate
+77,"Your prescription shipped","Your prescription order has shipped. Tracking: 1Z999AA10123456784","pharmacy@express-scripts.com",legitimate
+78,"Immediate action required - IRS","You owe $8,423 in back taxes. Pay immediately or face arrest: http://irs-payment-portal.com","collection@irs-tax-dept.xyz",phishing
+79,"Movie night?","Want to catch a movie this weekend? The new Marvel film looks good.","friend@gmail.com",legitimate
+80,"Your domain is expiring","Your domain company.com expires in 30 days. Renew at your registrar.","billing@godaddy.com",legitimate
+81,"Claim your cashback reward","You have $847.00 in unclaimed cashback! Enter bank details to receive: http://cashback-claim.biz","rewards@cashback-center.xyz",phishing
+82,"Apartment maintenance notice","Water will be shut off Tuesday 9 AM - 12 PM for maintenance.","management@apartments.com",legitimate
+83,"Your electricity bill","Your bill of $142.50 is due March 15. Pay online at utility.com","billing@utility.com",legitimate
+84,"Re: vacation photos","Great photos from your trip! The beach looks amazing.","friend@gmail.com",legitimate
+85,"Your Social Security benefits","Review your Social Security statement. Log in at ssa.gov","statements@ssa.gov",legitimate
+86,"URGENT: Verify PayPal account","Unusual activity detected. Verify or lose account access: http://paypal-verify-now.tk","service@paypal-security-team.tk",phishing
+87,"Book your annual checkup","It's time for your annual physical. Schedule at patientportal.com","appointments@doctor.com",legitimate
+88,"Freelance opportunity","Looking for freelance writers for our tech blog. $100 per article.","editor@techblog.com",legitimate
+89,"You've inherited millions!","A distant relative in UK left you £2.3 million. Contact our attorney with your bank details.","solicitor@uk-inheritance.com",phishing
+90,"Plant watering reminder","Time to water your plants! Next watering in 3 days.","app@plantcare.com",legitimate
+91,"Your Spotify Wrapped","Your 2024 music year in review is ready! See your top artists.","noreply@spotify.com",legitimate
+92,"Delivery exception notice","Your FedEx package has an exception. Pay customs fee $4.99: http://fedex-customs-pay.xyz","tracking@fedex-delivery-alert.xyz",phishing
+93,"HOA meeting minutes","Attached are the minutes from last night's HOA meeting.","hoa@neighborhood.org",legitimate
+94,"Meditation reminder","Time for your daily meditation. Open the app to begin.","reminders@calmapp.com",legitimate
+95,"Your Netflix password was changed","If you didn't change your password, secure your account: http://netflix-security.tk","security@netf1ix-support.tk",phishing
+96,"Soccer practice moved","Practice moved to Field B this week due to maintenance.","coach@soccerclub.com",legitimate
+97,"New device signed in","A new iPhone signed into your Google account from San Francisco.","no-reply@accounts.google.com",legitimate
+98,"Claim your prize NOW","You are today's lucky visitor! Spin the wheel to claim iPhone or $1000: http://prize-spin-winner.com","winner@daily-prize.biz",phishing
+99,"Status update on your ticket","Your IT support ticket #4521 has been resolved. Please confirm.","support@company.com",legitimate
+100,"Charity donation receipt","Thank you for your $50 donation to Red Cross. Tax receipt attached.","donations@redcross.org",legitimate
